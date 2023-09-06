@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Schmatt <br>🌱 I’m currently learning NextJS<br>💬 I’m planning to learn MySQL<br>🏫 Elvebakken VGS
+🔭 I’m currently working on Treningdagbokv2 <br>🌱 I’m currently learning MongoDB<br>🏫 Elvebakken VGS
 
 
 # 💻 Tech Stack:
