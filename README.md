@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Treningdagbokv2 <br>🌱 I’m currently learning MongoDB<br>🏫 Elvebakken VGS
 
-
+<img src="https://imgflip.com/gif/7xglxt" />
 
 
 <div align="left">
