@@ -1,8 +1,10 @@
+<h2 align="left">Hi 👋! My name is Iver and I'm from Norway</h2>
+
 # 💫 About Me:
 🔭 I’m currently working on Treningdagbokv2 <br>🌱 I’m currently learning MongoDB<br>🏫 Elvebakken VGS
 
 
-<h2 align="left">Hi 👋! My name is Iver and I'm from Norway</h2>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
