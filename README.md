@@ -4,14 +4,6 @@
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -47,7 +39,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/7xglxt"  />
 
 ###
 # 📊 GitHub Stats:
