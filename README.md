@@ -3,7 +3,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Treningdagbokv2 <br>🌱 I’m currently learning MongoDB<br>🏫 Elvebakken VGS
 
-<img src="https://imgflip.com/gif/7xglxt" />
+---
+
 
 
 <div align="left">
@@ -32,11 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 [![](https://visitcount.itsvg.in/api?id=ivermoka&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
