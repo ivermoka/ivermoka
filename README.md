@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! My name is Iver and I'm from Norway</h2>
+<h2 align="left">Hi 👋! My name is Iver </h2>
 
 # 💫 About Me:
-🔭 I’m currently working on Treningdagbokv2 <br>🌱 I’m currently learning MongoDB<br>🏫 Elvebakken VGS
+🔭 I’m currently working on Treningdagbokv2 <br>🌱 I’m currently learning MongoDB <br>🏫 Elvebakken VGS
 
 ---
 ###
