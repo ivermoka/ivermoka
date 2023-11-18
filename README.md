@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Iver </h2>
 
 # 💻 About Me:
-🔭 I’m currently working on multiple projects <br>🌱 I’m currently learning Go <br>🏫 Elvebakken VGS
+🔭 I’m currently working on multiple projects <br>🌱 I’m currently learning Go and ExpressJS <br>🏫 Elvebakken VGS
 
 ---
 ###
