@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Iver </h2>
 
 # 💻 About Me:
-🔭 I’m currently working on multiple projects <br>🌱 I’m currently learning Go and ExpressJS <br>🏫 Elvebakken VGS
+🔭 I’m currently working on a finn.no [job-scraper](https://github.com/ivermoka/job-scraper) using go <br>🌱 I’m currently learning [Go](https://go.dev/) <br>🏫 2IMIT @ [Elvebakken VGS](https://elvebakken.vgs.no/) <br> ✉️ Contact me at ivkaa003@osloskolen.no
 
 ---
 ###
