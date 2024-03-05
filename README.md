@@ -5,7 +5,7 @@
 
   
   
-  I’m currently working on my web [portfolio](https://github.com/ivermoka/portfolio). <br>Contact me at ivkaa003@osloskolen.no  
+  I’m currently working on my web [portfolio](https://github.com/ivermoka/portfolio). <br>Contact me at ivermoka@icloud.com  
 </samp>
 
 <img width="400" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
