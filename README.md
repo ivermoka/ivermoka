@@ -5,7 +5,7 @@
 
   
   
-  I’m currently learning Kotlin and working on an [IM ai server cost program](https://github.com/ivermoka/portfolio). <br>Contact me at ivermoka@icloud.com  
+  I’m currently learning Kotlin and working on an [IM ai server cost program](https://github.com/ivermoka/ai-server-kostnad). <br>Contact me at ivermoka@icloud.com  
 </samp>
 
 <img width="400" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
