@@ -5,7 +5,7 @@
 
   
   
-  I’m currently working [GameBoxd](https://github.com/ivermoka/GameBoxd). <br>Contact me at ivermoka@icloud.com  
+  Contact me at ivermoka@icloud.com  
 </samp>
 
 <img width="400" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
