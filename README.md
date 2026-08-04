@@ -1,6 +1,5 @@
 <samp>
-  <p>Hi! My name is Iver. I'm currently working as an IT-developer apprentice at Statnett.</p>
-  <p>---> https://ivermoka.vercel.app/ <---</p>
+  <p>Hi! My name is Iver. I'm currently working as a SW Engineer @ Tieto.
 
 
   
